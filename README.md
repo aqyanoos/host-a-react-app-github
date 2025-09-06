@@ -5,10 +5,10 @@ In this course you are going to learn how to deploy or host a React website on G
 
 There is also a video that shows step by step how to host this React App or website. Watch [here](https://youtu.be/-JtZH4E8FFs).
 
-> I teach computers, coding and programming from very basics to advanced. Visit my YouTube Channel [Coding Aqyanoos](https://www.youtube.com/@CodingAqyanoos) and my website [https://aqyanoos.com/](https://aqyanoos.com/).
+> I teach computers, coding and programming from very basics to advanced. Visit my YouTube Channel [Aqyanoos](https://www.youtube.com/@Aqyanoos) and my website [https://aqyanoos.com/](https://aqyanoos.com/).
 
 
-> Check out the [Live Demo of this Repo](https://coding-aqyanoos.github.io/host-a-react-app-github/)
+> Check out the [Live Demo of this Repo](https://aqyanoos.github.io/host-a-react-app-github/)
 
 
 ### In just 8 Steps Host your React App or Website on Github:
@@ -44,6 +44,7 @@ There is also a video that shows step by step how to host this React App or webs
 ### Congratulations
 
 You have successfully hosted your first React website on GitHub.
+
 
 
 
